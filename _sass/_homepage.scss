@@ -1,0 +1,39 @@
+html.full-height {
+    height: 100%;
+}
+
+.homepage {
+    background-color: #0264c7;
+    color: #fff;
+    text-shadow: 1px 1px 0 #000;
+
+    h1 {
+        color: #fff;
+    }
+
+    a {
+        color: rgb(244, 228, 117);
+    }
+
+    ul {
+        list-style: inside none;
+        padding: 0;
+        li {
+            &:before {
+                content: '→ ';
+            }
+        }
+    }
+
+    .cv {
+        width: 600px;
+        margin: 100px auto 0 auto;
+
+        img {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            box-shadow: 0 0 1px #000;
+        }
+    }
+}

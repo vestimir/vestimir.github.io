@@ -1,0 +1,37 @@
+.books {
+  margin-top: 50px;
+  padding: 0;
+  overflow: hidden;
+
+  li {
+    list-style: inside none;
+    display: block;
+    float: left;
+    width: 295px;
+    height: 135px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    overflow: hidden;
+
+    a {
+      &:hover {
+        text-decoration: none;
+        h6 {
+          color: #0264c7;
+        }
+      }
+    }
+
+    img {
+      float: left;
+      margin-right: 20px;
+      width: 80px;
+      border: 1px solid #efefef;
+      border-radius: 0;
+    }
+
+    h6 {
+      margin-top: 0;
+    }
+  }
+}
