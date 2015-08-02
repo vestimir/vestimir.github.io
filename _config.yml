@@ -6,7 +6,7 @@ relative_permalinks: true
 
 # Setup
 title:               Vestimir M.
-tagline:             an expert
+tagline:             developer
 url:                 http://vestimir.com
 paginate:            1
 paginate_path: "/blog/page:num/"
