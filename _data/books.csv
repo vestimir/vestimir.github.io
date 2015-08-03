@@ -10,7 +10,7 @@ id,title,author,num_pages,image_url,url,average_rating,owned
 6288,The Road,Cormac McCarthy,241,http://d.gr-assets.com/books/1435861842m/6288.jpg,http://www.goodreads.com/book/show/6288.The_Road,3.94,0
 3186031,The Evolution of a Cro-Magnon,John  Joseph,,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/3186031-the-evolution-of-a-cro-magnon,4.29,0
 22590,Ubik,Philip K. Dick,288,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/22590.Ubik,4.09,0
-7090,The Soul of a New Machine,Tracy Kidder,320,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/7090.The_Soul_of_a_New_Machine,4.11,0
+7090,The Soul of a New Machine,Tracy Kidder,320,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/7090.The_Soul_of_a_New_Machine,4.12,0
 13629,The Mythical Man-Month: Essays on Software Engineering,Frederick P. Brooks Jr.,322,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/13629.The_Mythical_Man_Month,4.03,0
 830,Snow Crash,Neal Stephenson,470,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/830.Snow_Crash,3.99,0
 70535,"2001: A Space Odyssey (Space Odyssey, #1)",Arthur C. Clarke,297,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/70535.2001,4.07,0
@@ -33,9 +33,9 @@ id,title,author,num_pages,image_url,url,average_rating,owned
 4102,Practices of an Agile Developer: Working in the Real World,Venkat Subramaniam,189,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/4102.Practices_of_an_Agile_Developer,3.84,0
 6399113,The Passionate Programmer,Chad Fowler,219,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/6399113-the-passionate-programmer,3.97,0
 7912517,Seven Languages in Seven Weeks,Bruce A. Tate,328,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/7912517-seven-languages-in-seven-weeks,3.96,0
-7183279,Metaprogramming Ruby,Paolo Perrotta,296,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/7183279-metaprogramming-ruby,4.35,1
+7183279,Metaprogramming Ruby,Paolo Perrotta,296,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/7183279-metaprogramming-ruby,4.34,1
 808814,Programming Erlang,Joe Armstrong,519,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/808814.Programming_Erlang,3.94,0
-44919,Working Effectively with Legacy Code,Michael C. Feathers,456,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code,4.15,0
+44919,Working Effectively with Legacy Code,Michael C. Feathers,456,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code,4.16,0
 387190,Test Driven Development: By Example,Kent Beck,216,http://d.gr-assets.com/books/1372039943m/387190.jpg,http://www.goodreads.com/book/show/387190.Test_Driven_Development,4.04,0
 44936,Refactoring: Improving the Design of Existing Code,Martin Fowler,431,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/44936.Refactoring,4.20,0
 3268590,Turtle Feet,Nikolai Grozni,326,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/3268590-turtle-feet,3.85,0
@@ -44,11 +44,11 @@ id,title,author,num_pages,image_url,url,average_rating,owned
 12683251,Вдъхновен от Стивън Кинг,Петър Станимиров,64,http://d.gr-assets.com/books/1316592456m/12683251.jpg,http://www.goodreads.com/book/show/12683251,4.94,0
 18342,It,Stephen King,1093,http://d.gr-assets.com/books/1309376909m/18342.jpg,http://www.goodreads.com/book/show/18342.It,4.12,0
 39662,Different Seasons,Stephen King,560,http://d.gr-assets.com/books/1329662611m/39662.jpg,http://www.goodreads.com/book/show/39662.Different_Seasons,4.31,0
-10569,On Writing: A Memoir of the Craft,Stephen King,297,http://d.gr-assets.com/books/1436735207m/10569.jpg,http://www.goodreads.com/book/show/10569.On_Writing,4.27,0
+10569,On Writing: A Memoir of the Craft,Stephen King,297,http://d.gr-assets.com/books/1436735207m/10569.jpg,http://www.goodreads.com/book/show/10569.On_Writing,4.28,0
 10552338,Reamde,Neal Stephenson,1044,http://d.gr-assets.com/books/1305993115m/10552338.jpg,http://www.goodreads.com/book/show/10552338-reamde,3.94,0
 816,Cryptonomicon,Neal Stephenson,1139,http://d.gr-assets.com/books/1327931476m/816.jpg,http://www.goodreads.com/book/show/816.Cryptonomicon,4.24,0
 10964693,The Marriage Plot,Jeffrey Eugenides,406,http://d.gr-assets.com/books/1328736940m/10964693.jpg,http://www.goodreads.com/book/show/10964693-the-marriage-plot,3.41,0
-22299846,Git in Practice,Mike McQuaid,225,http://d.gr-assets.com/books/1411951537m/22299846.jpg,http://www.goodreads.com/book/show/22299846-git-in-practice,4.00,0
+22299846,Git in Practice,Mike McQuaid,225,http://d.gr-assets.com/books/1411951537m/22299846.jpg,http://www.goodreads.com/book/show/22299846-git-in-practice,4.06,0
 185748,"Kiss Me, Judas",Will Christopher Baer,,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/185748.Kiss_Me_Judas,3.83,0
 85041,Refactoring to Patterns,Joshua Kerievsky,400,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/85041.Refactoring_to_Patterns,3.95,0
 343,Perfume: The Story of a Murderer,Patrick Süskind,263,http://d.gr-assets.com/books/1409112276m/343.jpg,http://www.goodreads.com/book/show/343.Perfume,3.98,0
@@ -83,7 +83,7 @@ id,title,author,num_pages,image_url,url,average_rating,owned
 67833,Extreme Programming Explained: Embrace Change (The XP Series),Kent Beck,224,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/67833.Extreme_Programming_Explained,4.02,0
 22500611,Trigger Warning: Short Fictions and Disturbances,Neil Gaiman,352,http://d.gr-assets.com/books/1415036199m/22500611.jpg,http://www.goodreads.com/book/show/22500611-trigger-warning,3.95,0
 721338,Agile Retrospectives: Making Good Teams Great,Esther Derby,170,http://d.gr-assets.com/books/1358993568m/721338.jpg,http://www.goodreads.com/book/show/721338.Agile_Retrospectives,3.91,0
-23658654,Confessions Of A Heretic: The Sacred And The Profane: Behemoth And Beyond,Adam Nergal Darski,320,http://d.gr-assets.com/books/1420789663m/23658654.jpg,http://www.goodreads.com/book/show/23658654-confessions-of-a-heretic,4.03,0
+23658654,Confessions Of A Heretic: The Sacred And The Profane: Behemoth And Beyond,Adam Nergal Darski,320,http://d.gr-assets.com/books/1420789663m/23658654.jpg,http://www.goodreads.com/book/show/23658654-confessions-of-a-heretic,4.02,0
 7872823,Player One: What Is to Become of Us,Douglas Coupland,256,http://d.gr-assets.com/books/1328772299m/7872823.jpg,http://www.goodreads.com/book/show/7872823-player-one,3.50,1
 22307,Terry: Terry Fox and His Marathon of Hope,Douglas Coupland,176,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/22307.Terry,4.31,0
 17612817,Worst. Person. Ever.,Douglas Coupland,336,http://d.gr-assets.com/books/1373495738m/17612817.jpg,http://www.goodreads.com/book/show/17612817-worst-person-ever,3.01,0
@@ -91,15 +91,15 @@ id,title,author,num_pages,image_url,url,average_rating,owned
 405447,Faith of a Heretic,Walter Kaufmann,,http://d.gr-assets.com/books/1329894925m/405447.jpg,http://www.goodreads.com/book/show/405447.Faith_of_a_Heretic,4.54,0
 18656827,"Hatching Twitter: A True Story of Money, Power, Friendship, and Betrayal",Nick Bilton,299,http://d.gr-assets.com/books/1381332539m/18656827.jpg,http://www.goodreads.com/book/show/18656827-hatching-twitter,4.03,1
 24674300,"Нещата, на които не ни учат в училище",Емил Конрад,112,http://d.gr-assets.com/books/1422110153m/24674300.jpg,http://www.goodreads.com/book/show/24674300,2.87,1
+23351705,Нощта е действие,Илиян Любомиров,64,http://d.gr-assets.com/books/1412939732m/23351705.jpg,http://www.goodreads.com/book/show/23351705,4.22,0
 242472,The Black Swan: The Impact of the Highly Improbable,Nassim Nicholas Taleb,305,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/242472.The_Black_Swan,3.84,1
-23351705,Нощта е действие,Илиян Любомиров,64,http://d.gr-assets.com/books/1412939732m/23351705.jpg,http://www.goodreads.com/book/show/23351705,4.21,0
 15712901,18% Gray,Zachary Karabashliev,264,http://d.gr-assets.com/books/1353004211m/15712901.jpg,http://www.goodreads.com/book/show/15712901-18-gray,4.05,0
 13142142,Физика на тъгата,Georgi Gospodinov,344,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/13142142,4.22,1
 23258103,"The Mathematics of Love: Patterns, Proofs, and the Search for the Ultimate Equation",Hannah Fry,128,http://d.gr-assets.com/books/1422848670m/23258103.jpg,http://www.goodreads.com/book/show/23258103-the-mathematics-of-love,3.72,1
-12799077,The Information Diet: A Case for Conscious Consumption,Clay A. Johnson,150,http://d.gr-assets.com/books/1327911076m/12799077.jpg,http://www.goodreads.com/book/show/12799077-the-information-diet,3.40,0
+12799077,The Information Diet: A Case for Conscious Consumption,Clay A. Johnson,150,http://d.gr-assets.com/books/1327911076m/12799077.jpg,http://www.goodreads.com/book/show/12799077-the-information-diet,3.41,0
 7640261,Sex at Dawn: The Prehistoric Origins of Modern Sexuality,Christopher  Ryan,400,http://d.gr-assets.com/books/1291105594m/7640261.jpg,http://www.goodreads.com/book/show/7640261-sex-at-dawn,4.01,0
 59924,The Lathe of Heaven,Ursula K. Le Guin,,http://d.gr-assets.com/books/1433084322m/59924.jpg,http://www.goodreads.com/book/show/59924.The_Lathe_of_Heaven,4.09,1
-18811399,Etiquette,Emily Post,,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/18811399-etiquette,3.83,0
+18811399,Etiquette,Emily Post,,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/18811399-etiquette,4.16,0
 2052465,101 Common Mistakes in Etiquette and How to Avoid Them,Emily Post,,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/2052465.101_Common_Mistakes_in_Etiquette_and_How_to_Avoid_Them,4.33,0
 18077903,"Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration",Ed Catmull,368,http://d.gr-assets.com/books/1400863577m/18077903.jpg,http://www.goodreads.com/book/show/18077903-creativity-inc,4.16,1
 6093864,Generation A,Douglas Coupland,320,http://d.gr-assets.com/books/1320492748m/6093864.jpg,http://www.goodreads.com/book/show/6093864-generation-a,3.53,1
@@ -124,28 +124,29 @@ id,title,author,num_pages,image_url,url,average_rating,owned
 664566,Margrave Of The Marshes,John  Peel,508,http://d.gr-assets.com/books/1348516746m/664566.jpg,http://www.goodreads.com/book/show/664566.Margrave_Of_The_Marshes,3.98,1
 108978,Slaughterhouse-Five,Kurt Vonnegut,177,http://d.gr-assets.com/books/1356442485m/108978.jpg,http://www.goodreads.com/book/show/108978.Slaughterhouse_Five,4.03,1
 11890985,Designed for Use,Lukas Mathis,344,http://d.gr-assets.com/books/1313466157m/11890985.jpg,http://www.goodreads.com/book/show/11890985-designed-for-use,3.88,1
-43713,Structure and Interpretation of Computer Programs,Harold Abelson,657,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs,4.47,0
+43713,Structure and Interpretation of Computer Programs,Harold Abelson,657,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs,4.46,0
 85009,Design Patterns: Elements of Reusable Object-Oriented Software,Erich Gamma,416,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/85009.Design_Patterns,4.12,0
 48484,"Blindsight (Firefall, #1)",Peter Watts,384,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/48484.Blindsight,3.95,0
 70420,The Undercover Economist,Tim Harford,276,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/70420.The_Undercover_Economist,3.76,1
-15847933,Confident Ruby,Avdi Grimm,296,http://d.gr-assets.com/books/1398328834m/15847933.jpg,http://www.goodreads.com/book/show/15847933-confident-ruby,4.39,1
+15847933,Confident Ruby,Avdi Grimm,296,http://d.gr-assets.com/books/1398328834m/15847933.jpg,http://www.goodreads.com/book/show/15847933-confident-ruby,4.40,1
 93251,The October Country,Ray Bradbury,352,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/93251.The_October_Country,4.16,1
 55876,How to Lose Friends and Alienate People,Toby Young,368,http://d.gr-assets.com/books/1327636872m/55876.jpg,http://www.goodreads.com/book/show/55876.How_to_Lose_Friends_and_Alienate_People,3.27,0
 22694448,Letters from Cythera - A Ludibrium,Jaz Coleman,485,http://d.gr-assets.com/books/1404870369m/22694448.jpg,http://www.goodreads.com/book/show/22694448-letters-from-cythera---a-ludibrium,4.00,0
 25146174,Улична храна,Lonely Planet,224,http://d.gr-assets.com/books/1426411578m/25146174.jpg,http://www.goodreads.com/book/show/25146174,4.00,0
-9374122,"Автобусният шофьор, който искаше да бъде Бог",Etgar Keret,200,http://d.gr-assets.com/books/1297819589m/9374122.jpg,http://www.goodreads.com/book/show/9374122,4.07,0
-22318578,The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing,Marie Kondo,214,http://d.gr-assets.com/books/1418767178m/22318578.jpg,http://www.goodreads.com/book/show/22318578-the-life-changing-magic-of-tidying-up,3.82,1
+9374122,"Автобусният шофьор, който искаше да бъде Бог",Etgar Keret,200,http://d.gr-assets.com/books/1297819589m/9374122.jpg,http://www.goodreads.com/book/show/9374122,4.07,1
+22318578,The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing,Marie Kondo,214,http://d.gr-assets.com/books/1418767178m/22318578.jpg,http://www.goodreads.com/book/show/22318578-the-life-changing-magic-of-tidying-up,3.81,1
 11467066,The Toaster Project: Or a Heroic Attempt to Build a Simple Electric Appliance from Scratch,Thomas Thwaites,192,http://d.gr-assets.com/books/1327901764m/11467066.jpg,http://www.goodreads.com/book/show/11467066-the-toaster-project,3.76,0
 6177595,Поздрави от мен боговете,Димитър Воев,88,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/6177595,4.63,0
-23604940,Losing the Signal: The Untold Story Behind the Extraordinary Rise and Spectacular Fall of BlackBerry,Jacquie McNish,288,http://d.gr-assets.com/books/1426128020m/23604940.jpg,http://www.goodreads.com/book/show/23604940-losing-the-signal,4.08,0
-20980987,"The Art of Asking; or, How I Learned to Stop Worrying and Let People Help",Amanda Palmer,339,http://d.gr-assets.com/books/1408547261m/20980987.jpg,http://www.goodreads.com/book/show/20980987-the-art-of-asking-or-how-i-learned-to-stop-worrying-and-let-people-hel,3.96,0
+23604940,Losing the Signal: The Untold Story Behind the Extraordinary Rise and Spectacular Fall of BlackBerry,Jacquie McNish,288,http://d.gr-assets.com/books/1426128020m/23604940.jpg,http://www.goodreads.com/book/show/23604940-losing-the-signal,4.07,0
+20980987,"The Art of Asking; or, How I Learned to Stop Worrying and Let People Help",Amanda Palmer,339,http://d.gr-assets.com/books/1408547261m/20980987.jpg,http://www.goodreads.com/book/show/20980987-the-art-of-asking-or-how-i-learned-to-stop-worrying-and-let-people-hel,3.95,0
 20660692,"Кривата на щастието: За спорта, Вселената и всичко останало",Иво Иванов,516,http://d.gr-assets.com/books/1391166345m/20660692.jpg,http://www.goodreads.com/book/show/20660692,4.77,0
 28636,The Curtain,Milan Kundera,168,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/28636.The_Curtain,3.96,0
 61329,Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream Customers,Geoffrey A. Moore,211,http://d.gr-assets.com/books/1421709292m/61329.jpg,http://www.goodreads.com/book/show/61329.Crossing_the_Chasm,4.00,0
-324750,High Output Management,Andrew S. Grove,272,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/324750.High_Output_Management,4.26,0
+324750,High Output Management,Andrew S. Grove,272,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/324750.High_Output_Management,4.27,0
 11104933,Willpower: Rediscovering the Greatest Human Strength,Roy F. Baumeister,291,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/11104933-willpower,3.94,0
 259031,Why We Buy: The Science of Shopping,Paco Underhill,,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/259031.Why_We_Buy,3.84,0
 63697,The Man Who Mistook His Wife for a Hat and Other Clinical Tales,Oliver Sacks,243,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/63697.The_Man_Who_Mistook_His_Wife_for_a_Hat_and_Other_Clinical_Tales,4.02,0
 7155145,Linchpin: Are You Indispensable?,Seth Godin,244,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/7155145-linchpin,3.87,1
 3228917,Outliers: The Story of Success,Malcolm Gladwell,309,http://d.gr-assets.com/books/1344266315m/3228917.jpg,http://www.goodreads.com/book/show/3228917-outliers,4.07,0
 168663,Galápagos,Kurt Vonnegut,237,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/168663.Gal_pagos,3.86,1
+7061309,Fragile Things,Neil Gaiman,363,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/7061309-fragile-things,4.01,1
