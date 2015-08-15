@@ -71,10 +71,10 @@ id,title,author,num_pages,image_url,url,average_rating,owned
 46190,Love Is a Mix Tape,Rob Sheffield,224,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/46190.Love_Is_a_Mix_Tape,3.83,0
 112146,"Pre: The Story of America's Greatest Running Legend, Steve Prefontaine",Tom Jordan,176,http://d.gr-assets.com/books/1312063898m/112146.jpg,http://www.goodreads.com/book/show/112146.Pre,3.97,0
 22907858,#НаЖивоОтСофия,Александър Шпатов,176,http://d.gr-assets.com/books/1407847459m/22907858.jpg,http://www.goodreads.com/book/show/22907858,3.85,0
-17797582,Последният убиец на дракони,Ейдриън Уейн,96,http://d.gr-assets.com/books/1365944768m/17797582.jpg,http://www.goodreads.com/book/show/17797582,2.80,0
-16369563,Патрул за ада: 2 в 1,Робърт Блонд,160,http://d.gr-assets.com/books/1355224336m/16369563.jpg,http://www.goodreads.com/book/show/16369563,3.78,0
+17797582,Последният убиец на дракони,Ейдриън Уейн,96,http://d.gr-assets.com/books/1365944768m/17797582.jpg,http://www.goodreads.com/book/show/17797582,2.88,0
+16369563,Патрул за ада: 2 в 1,Робърт Блонд,160,http://d.gr-assets.com/books/1355224336m/16369563.jpg,http://www.goodreads.com/book/show/16369563,3.79,0
 22375880,Ледената цитадела,Колин Уолъмбъри,160,http://d.gr-assets.com/books/1401454865m/22375880.jpg,http://www.goodreads.com/book/show/22375880,3.93,1
-17789143,Вълшебната тетива,Джордж М. Джордж,160,http://d.gr-assets.com/books/1365595576m/17789143.jpg,http://www.goodreads.com/book/show/17789143,3.80,0
+17789143,Вълшебната тетива,Джордж М. Джордж,160,http://d.gr-assets.com/books/1365595576m/17789143.jpg,http://www.goodreads.com/book/show/17789143,3.83,0
 8853059,Електрочакра,Богдан Русев,116,http://d.gr-assets.com/books/1281619797m/8853059.jpg,http://www.goodreads.com/book/show/8853059,3.91,0
 7743349,The Singles Collection 1999-2009,Богдан Русев,184,http://d.gr-assets.com/books/1266361165m/7743349.jpg,http://www.goodreads.com/book/show/7743349-the-singles-collection-1999-2009,3.67,0
 23593534,Соц гурме,Albena Shkodrova,360,http://d.gr-assets.com/books/1416504861m/23593534.jpg,http://www.goodreads.com/book/show/23593534,4.25,1
@@ -91,8 +91,8 @@ id,title,author,num_pages,image_url,url,average_rating,owned
 405447,Faith of a Heretic,Walter Kaufmann,,http://d.gr-assets.com/books/1329894925m/405447.jpg,http://www.goodreads.com/book/show/405447.Faith_of_a_Heretic,4.54,0
 18656827,"Hatching Twitter: A True Story of Money, Power, Friendship, and Betrayal",Nick Bilton,299,http://d.gr-assets.com/books/1381332539m/18656827.jpg,http://www.goodreads.com/book/show/18656827-hatching-twitter,4.03,1
 24674300,"Нещата, на които не ни учат в училище",Емил Конрад,112,http://d.gr-assets.com/books/1422110153m/24674300.jpg,http://www.goodreads.com/book/show/24674300,2.85,1
-23351705,Нощта е действие,Илиян Любомиров,64,http://d.gr-assets.com/books/1412939732m/23351705.jpg,http://www.goodreads.com/book/show/23351705,4.22,0
 242472,The Black Swan: The Impact of the Highly Improbable,Nassim Nicholas Taleb,305,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/242472.The_Black_Swan,3.84,1
+23351705,Нощта е действие,Илиян Любомиров,64,http://d.gr-assets.com/books/1412939732m/23351705.jpg,http://www.goodreads.com/book/show/23351705,4.22,0
 15712901,18% Gray,Zachary Karabashliev,264,http://d.gr-assets.com/books/1353004211m/15712901.jpg,http://www.goodreads.com/book/show/15712901-18-gray,4.06,0
 13142142,Физика на тъгата,Georgi Gospodinov,344,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/13142142,4.23,1
 23258103,"The Mathematics of Love: Patterns, Proofs, and the Search for the Ultimate Equation",Hannah Fry,128,http://d.gr-assets.com/books/1422848670m/23258103.jpg,http://www.goodreads.com/book/show/23258103-the-mathematics-of-love,3.71,1
@@ -107,7 +107,7 @@ id,title,author,num_pages,image_url,url,average_rating,owned
 13154246,Sorcery and Religion in Ancient Scandinavia,Varg Vikernes,128,http://d.gr-assets.com/books/1323039902m/13154246.jpg,http://www.goodreads.com/book/show/13154246-sorcery-and-religion-in-ancient-scandinavia,3.82,0
 18050143,"Zero to One: Notes on Startups, or How to Build the Future",Peter Thiel,195,http://d.gr-assets.com/books/1414347376m/18050143.jpg,http://www.goodreads.com/book/show/18050143-zero-to-one,4.13,0
 76865,Good to Great: Why Some Companies Make the Leap... and Others Don't,James C. Collins,320,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/76865.Good_to_Great,4.00,0
-6081261,What I Wish I Knew When I Was 20,Tina Seelig,184,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/6081261-what-i-wish-i-knew-when-i-was-20,3.92,0
+6081261,What I Wish I Knew When I Was 20,Tina Seelig,184,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/6081261-what-i-wish-i-knew-when-i-was-20,3.93,0
 368593,The 4-Hour Workweek,Timothy Ferriss,308,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/368593.The_4_Hour_Workweek,3.78,0
 20133039,"Leaving Microsoft to Save the World, Level 3, Penguin Readers (Penguin Readers: Level 3)",John Wood,,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/20133039-leaving-microsoft-to-save-the-world-level-3-penguin-readers,3.38,0
 13234710,The Founder's Dilemmas: Anticipating and Avoiding the Pitfalls That Can Sink a Startup,Noam Wasserman,496,http://d.gr-assets.com/books/1356093515m/13234710.jpg,http://www.goodreads.com/book/show/13234710-the-founder-s-dilemmas,4.03,0
@@ -153,7 +153,7 @@ id,title,author,num_pages,image_url,url,average_rating,owned
 13608106,On Web Typography,Jason Santa Maria,142,http://d.gr-assets.com/books/1358192116m/13608106.jpg,http://www.goodreads.com/book/show/13608106-on-web-typography,4.25,0
 17236175,Just Enough Research,Erika Hall,154,http://d.gr-assets.com/books/1379351795m/17236175.jpg,http://www.goodreads.com/book/show/17236175-just-enough-research,4.00,1
 26063183,За трудностите в живота,Петър Дънов,223,http://d.gr-assets.com/books/1439052038m/26063183.jpg,http://www.goodreads.com/book/show/26063183,0.0,1
-17910048,The Goblin Emperor,Katherine Addison,446,http://d.gr-assets.com/books/1373039517m/17910048.jpg,http://www.goodreads.com/book/show/17910048-the-goblin-emperor,4.08,0
+17910048,The Goblin Emperor,Katherine Addison,446,http://d.gr-assets.com/books/1373039517m/17910048.jpg,http://www.goodreads.com/book/show/17910048-the-goblin-emperor,4.07,0
 17336787,Planescape: Torment,Chris Avellone,1218,http://d.gr-assets.com/books/1360145856m/17336787.jpg,http://www.goodreads.com/book/show/17336787-planescape,3.97,0
 23398715,"How Music Got Free: The End of an Industry, the Turn of the Century, and the Patient Zero of Piracy",Stephen Witt,304,http://d.gr-assets.com/books/1414348373m/23398715.jpg,http://www.goodreads.com/book/show/23398715-how-music-got-free,4.18,0
 17209001,Деветата порта,Arturo Pérez-Reverte,431,http://d.gr-assets.com/books/1357339765m/17209001.jpg,http://www.goodreads.com/book/show/17209001,3.80,0
@@ -161,3 +161,4 @@ id,title,author,num_pages,image_url,url,average_rating,owned
 13661,"Tehanu (Earthsea Cycle, #4)",Ursula K. Le Guin,281,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/13661.Tehanu,3.84,0
 13659,"Tales from Earthsea (Earthsea Cycle, #5)",Ursula K. Le Guin,280,http://d.gr-assets.com/books/1309202073m/13659.jpg,http://www.goodreads.com/book/show/13659.Tales_from_Earthsea,3.97,0
 13658,"The Other Wind (Earthsea Cycle, #6)",Ursula K. Le Guin,211,http://d.gr-assets.com/books/1309285821m/13658.jpg,http://www.goodreads.com/book/show/13658.The_Other_Wind,4.01,0
+17382980,Асамтой,Etgar Keret,156,http://d.gr-assets.com/books/1361190458m/17382980.jpg,http://www.goodreads.com/book/show/17382980,4.01,0
