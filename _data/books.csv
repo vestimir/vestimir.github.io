@@ -1,6 +1,6 @@
 id,title,author,num_pages,image_url,url,average_rating,owned
 7383829,Лайла: Изследване на нравствеността,Robert M. Pirsig,394,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/7383829,3.72,0
-12381856,Codermetrics,Jonathan Alexander,264,http://d.gr-assets.com/books/1328761494m/12381856.jpg,http://www.goodreads.com/book/show/12381856-codermetrics,3.33,0
+12381856,Codermetrics,Jonathan Alexander,264,http://d.gr-assets.com/books/1328761494m/12381856.jpg,http://www.goodreads.com/book/show/12381856-codermetrics,3.21,0
 11468377,"Thinking, Fast and Slow",Daniel Kahneman,499,http://d.gr-assets.com/books/1317793965m/11468377.jpg,http://www.goodreads.com/book/show/11468377-thinking-fast-and-slow,4.02,1
 363086,Ship It!,Jared  Richardson,200,http://d.gr-assets.com/books/1384258952m/363086.jpg,http://www.goodreads.com/book/show/363086.Ship_It_,3.68,1
 10127019,The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses,Eric Ries,299,http://d.gr-assets.com/books/1333576876m/10127019.jpg,http://www.goodreads.com/book/show/10127019-the-lean-startup,4.01,1
@@ -17,7 +17,7 @@ id,title,author,num_pages,image_url,url,average_rating,owned
 134825,The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary,Eric S. Raymond,258,http://d.gr-assets.com/books/1328835964m/134825.jpg,http://www.goodreads.com/book/show/134825.The_Cathedral_the_Bazaar,3.87,0
 56829,Hackers: Heroes of the Computer Revolution,Steven Levy,464,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/56829.Hackers,4.17,0
 8032112,The Big Short: Inside the Doomsday Machine,Michael Lewis,270,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/8032112-the-big-short,4.20,0
-13707738,Boomerang: Travels in the New Third World,Michael Lewis,218,http://d.gr-assets.com/books/1345046879m/13707738.jpg,http://www.goodreads.com/book/show/13707738-boomerang,3.87,0
+13707738,Boomerang: Travels in the New Third World,Michael Lewis,218,http://d.gr-assets.com/books/1345046879m/13707738.jpg,http://www.goodreads.com/book/show/13707738-boomerang,3.87,1
 17986421,The New New Thing: A Silicon Valley Story,Michael Lewis,272,http://d.gr-assets.com/books/1383228446m/17986421.jpg,http://www.goodreads.com/book/show/17986421-the-new-new-thing,3.66,0
 221059,JPod,Douglas Coupland,464,http://d.gr-assets.com/books/1316729451m/221059.jpg,http://www.goodreads.com/book/show/221059.JPod,3.69,0
 3378,Generation X: Tales for an Accelerated Culture,Douglas Coupland,211,http://d.gr-assets.com/books/1327348719m/3378.jpg,http://www.goodreads.com/book/show/3378.Generation_X,3.73,0
@@ -27,7 +27,7 @@ id,title,author,num_pages,image_url,url,average_rating,owned
 40492,Revolution in The Valley: The Insanely Great Story of How the Mac Was Made,Andy Hertzfeld,291,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/40492.Revolution_in_The_Valley,4.22,0
 2612,The Tipping Point: How Little Things Can Make a Big Difference,Malcolm Gladwell,304,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/2612.The_Tipping_Point,3.86,0
 658332,Free as in Freedom: Richard Stallman's Crusade for Free Software,Sam Williams,240,http://d.gr-assets.com/books/1344675393m/658332.jpg,http://www.goodreads.com/book/show/658332.Free_as_in_Freedom,3.78,0
-18007564,The Martian,Andy Weir,369,http://d.gr-assets.com/books/1413706054m/18007564.jpg,http://www.goodreads.com/book/show/18007564-the-martian,4.37,0
+18007564,The Martian,Andy Weir,369,http://d.gr-assets.com/books/1413706054m/18007564.jpg,http://www.goodreads.com/book/show/18007564-the-martian,4.37,1
 18743934,Stay Awhile and Listen : How Two Blizzards Unleashed Diablo and Forged a Video-Game Empire,David L. Craddock,,http://d.gr-assets.com/books/1383233477m/18743934.jpg,http://www.goodreads.com/book/show/18743934-stay-awhile-and-listen,3.80,0
 41793,Hackers & Painters: Big Ideas from the Computer Age,Paul Graham,272,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/41793.Hackers_Painters,4.06,0
 4102,Practices of an Agile Developer: Working in the Real World,Venkat Subramaniam,189,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/4102.Practices_of_an_Agile_Developer,3.84,0
@@ -71,10 +71,10 @@ id,title,author,num_pages,image_url,url,average_rating,owned
 46190,Love Is a Mix Tape,Rob Sheffield,224,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/46190.Love_Is_a_Mix_Tape,3.83,0
 112146,"Pre: The Story of America's Greatest Running Legend, Steve Prefontaine",Tom Jordan,176,http://d.gr-assets.com/books/1312063898m/112146.jpg,http://www.goodreads.com/book/show/112146.Pre,3.97,0
 22907858,#НаЖивоОтСофия,Александър Шпатов,176,http://d.gr-assets.com/books/1407847459m/22907858.jpg,http://www.goodreads.com/book/show/22907858,3.85,0
-17797582,Последният убиец на дракони,Ейдриън Уейн,96,http://d.gr-assets.com/books/1365944768m/17797582.jpg,http://www.goodreads.com/book/show/17797582,2.88,0
-16369563,Патрул за ада: 2 в 1,Робърт Блонд,160,http://d.gr-assets.com/books/1355224336m/16369563.jpg,http://www.goodreads.com/book/show/16369563,3.79,0
+17797582,Последният убиец на дракони,Ейдриън Уейн,96,http://d.gr-assets.com/books/1365944768m/17797582.jpg,http://www.goodreads.com/book/show/17797582,2.80,0
+16369563,Патрул за ада: 2 в 1,Робърт Блонд,160,http://d.gr-assets.com/books/1355224336m/16369563.jpg,http://www.goodreads.com/book/show/16369563,3.78,0
 22375880,Ледената цитадела,Колин Уолъмбъри,160,http://d.gr-assets.com/books/1401454865m/22375880.jpg,http://www.goodreads.com/book/show/22375880,3.93,1
-17789143,Вълшебната тетива,Джордж М. Джордж,160,http://d.gr-assets.com/books/1365595576m/17789143.jpg,http://www.goodreads.com/book/show/17789143,3.83,0
+17789143,Вълшебната тетива,Джордж М. Джордж,160,http://d.gr-assets.com/books/1365595576m/17789143.jpg,http://www.goodreads.com/book/show/17789143,3.80,0
 8853059,Електрочакра,Богдан Русев,116,http://d.gr-assets.com/books/1281619797m/8853059.jpg,http://www.goodreads.com/book/show/8853059,3.91,0
 7743349,The Singles Collection 1999-2009,Богдан Русев,184,http://d.gr-assets.com/books/1266361165m/7743349.jpg,http://www.goodreads.com/book/show/7743349-the-singles-collection-1999-2009,3.67,0
 23593534,Соц гурме,Albena Shkodrova,360,http://d.gr-assets.com/books/1416504861m/23593534.jpg,http://www.goodreads.com/book/show/23593534,4.25,1
@@ -82,7 +82,7 @@ id,title,author,num_pages,image_url,url,average_rating,owned
 1705697,Wastelands: Stories of the Apocalypse,John Joseph Adams,333,http://d.gr-assets.com/books/1391343189m/1705697.jpg,http://www.goodreads.com/book/show/1705697.Wastelands,3.79,0
 67833,Extreme Programming Explained: Embrace Change (The XP Series),Kent Beck,224,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/67833.Extreme_Programming_Explained,4.02,0
 22500611,Trigger Warning: Short Fictions and Disturbances,Neil Gaiman,352,http://d.gr-assets.com/books/1415036199m/22500611.jpg,http://www.goodreads.com/book/show/22500611-trigger-warning,3.95,0
-721338,Agile Retrospectives: Making Good Teams Great,Esther Derby,170,http://d.gr-assets.com/books/1358993568m/721338.jpg,http://www.goodreads.com/book/show/721338.Agile_Retrospectives,3.92,0
+721338,Agile Retrospectives: Making Good Teams Great,Esther Derby,170,http://d.gr-assets.com/books/1358993568m/721338.jpg,http://www.goodreads.com/book/show/721338.Agile_Retrospectives,3.91,0
 23658654,Confessions Of A Heretic: The Sacred And The Profane: Behemoth And Beyond,Adam Nergal Darski,320,http://d.gr-assets.com/books/1420789663m/23658654.jpg,http://www.goodreads.com/book/show/23658654-confessions-of-a-heretic,4.02,0
 7872823,Player One: What Is to Become of Us,Douglas Coupland,256,http://d.gr-assets.com/books/1328772299m/7872823.jpg,http://www.goodreads.com/book/show/7872823-player-one,3.50,1
 22307,Terry: Terry Fox and His Marathon of Hope,Douglas Coupland,176,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/22307.Terry,4.31,0
@@ -107,7 +107,7 @@ id,title,author,num_pages,image_url,url,average_rating,owned
 13154246,Sorcery and Religion in Ancient Scandinavia,Varg Vikernes,128,http://d.gr-assets.com/books/1323039902m/13154246.jpg,http://www.goodreads.com/book/show/13154246-sorcery-and-religion-in-ancient-scandinavia,3.82,0
 18050143,"Zero to One: Notes on Startups, or How to Build the Future",Peter Thiel,195,http://d.gr-assets.com/books/1414347376m/18050143.jpg,http://www.goodreads.com/book/show/18050143-zero-to-one,4.13,0
 76865,Good to Great: Why Some Companies Make the Leap... and Others Don't,James C. Collins,320,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/76865.Good_to_Great,4.00,0
-6081261,What I Wish I Knew When I Was 20,Tina Seelig,184,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/6081261-what-i-wish-i-knew-when-i-was-20,3.93,0
+6081261,What I Wish I Knew When I Was 20,Tina Seelig,184,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/6081261-what-i-wish-i-knew-when-i-was-20,3.92,0
 368593,The 4-Hour Workweek,Timothy Ferriss,308,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/368593.The_4_Hour_Workweek,3.78,0
 20133039,"Leaving Microsoft to Save the World, Level 3, Penguin Readers (Penguin Readers: Level 3)",John Wood,,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/20133039-leaving-microsoft-to-save-the-world-level-3-penguin-readers,3.38,0
 13234710,The Founder's Dilemmas: Anticipating and Avoiding the Pitfalls That Can Sink a Startup,Noam Wasserman,496,http://d.gr-assets.com/books/1356093515m/13234710.jpg,http://www.goodreads.com/book/show/13234710-the-founder-s-dilemmas,4.03,0
@@ -119,7 +119,7 @@ id,title,author,num_pages,image_url,url,average_rating,owned
 12605157,"The $100 Startup: Reinvent the Way You Make a Living, Do What You Love, and Create a New Future",Chris Guillebeau,268,http://d.gr-assets.com/books/1345666854m/12605157.jpg,http://www.goodreads.com/book/show/12605157-the-100-startup,3.82,0
 2424726,"Words That Work: It's Not What You Say, It's What People Hear",Frank Luntz,368,http://d.gr-assets.com/books/1365985132m/2424726.jpg,http://www.goodreads.com/book/show/2424726.Words_That_Work,3.58,0
 23395719,Becoming Steve Jobs: The Evolution of a Reckless Upstart into a Visionary Leader,Brent Schlender,464,http://d.gr-assets.com/books/1421713283m/23395719.jpg,http://www.goodreads.com/book/show/23395719-becoming-steve-jobs,4.16,0
-25077624,How They Got There: Interviews With Digital Designers About Their Careers,Khoi Vinh,,http://d.gr-assets.com/books/1425568592m/25077624.jpg,http://www.goodreads.com/book/show/25077624-how-they-got-there,3.45,0
+25077624,How They Got There: Interviews With Digital Designers About Their Careers,Khoi Vinh,,http://d.gr-assets.com/books/1425568592m/25077624.jpg,http://www.goodreads.com/book/show/25077624-how-they-got-there,3.50,0
 668714,The Goblin Reservation,Clifford D. Simak,192,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/668714.The_Goblin_Reservation,4.00,1
 664566,Margrave Of The Marshes,John  Peel,508,http://d.gr-assets.com/books/1348516746m/664566.jpg,http://www.goodreads.com/book/show/664566.Margrave_Of_The_Marshes,3.98,1
 108978,Slaughterhouse-Five,Kurt Vonnegut,177,http://d.gr-assets.com/books/1356442485m/108978.jpg,http://www.goodreads.com/book/show/108978.Slaughterhouse_Five,4.03,1
@@ -132,9 +132,9 @@ id,title,author,num_pages,image_url,url,average_rating,owned
 93251,The October Country,Ray Bradbury,352,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/93251.The_October_Country,4.16,1
 55876,How to Lose Friends and Alienate People,Toby Young,368,http://d.gr-assets.com/books/1327636872m/55876.jpg,http://www.goodreads.com/book/show/55876.How_to_Lose_Friends_and_Alienate_People,3.27,0
 22694448,Letters from Cythera - A Ludibrium,Jaz Coleman,485,http://d.gr-assets.com/books/1404870369m/22694448.jpg,http://www.goodreads.com/book/show/22694448-letters-from-cythera---a-ludibrium,4.00,0
-25146174,Улична храна,Lonely Planet,224,http://d.gr-assets.com/books/1426411578m/25146174.jpg,http://www.goodreads.com/book/show/25146174,4.00,0
+25146174,Улична храна,Lonely Planet,224,http://d.gr-assets.com/books/1426411578m/25146174.jpg,http://www.goodreads.com/book/show/25146174,4.00,1
 22318578,The Life-Changing Magic of Tidying Up,Marie Kondo,214,http://d.gr-assets.com/books/1418767178m/22318578.jpg,http://www.goodreads.com/book/show/22318578-the-life-changing-magic-of-tidying-up,3.81,1
-11467066,The Toaster Project: Or a Heroic Attempt to Build a Simple Electric Appliance from Scratch,Thomas Thwaites,192,http://d.gr-assets.com/books/1327901764m/11467066.jpg,http://www.goodreads.com/book/show/11467066-the-toaster-project,3.77,0
+11467066,The Toaster Project: Or a Heroic Attempt to Build a Simple Electric Appliance from Scratch,Thomas Thwaites,192,http://d.gr-assets.com/books/1327901764m/11467066.jpg,http://www.goodreads.com/book/show/11467066-the-toaster-project,3.76,0
 6177595,Поздрави от мен боговете,Димитър Воев,88,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/6177595,4.63,0
 23604940,Losing the Signal: The Untold Story Behind the Extraordinary Rise and Spectacular Fall of BlackBerry,Jacquie McNish,288,http://d.gr-assets.com/books/1426128020m/23604940.jpg,http://www.goodreads.com/book/show/23604940-losing-the-signal,4.08,0
 20980987,"The Art of Asking; or, How I Learned to Stop Worrying and Let People Help",Amanda Palmer,339,http://d.gr-assets.com/books/1408547261m/20980987.jpg,http://www.goodreads.com/book/show/20980987-the-art-of-asking-or-how-i-learned-to-stop-worrying-and-let-people-hel,3.95,0
@@ -153,7 +153,7 @@ id,title,author,num_pages,image_url,url,average_rating,owned
 13608106,On Web Typography,Jason Santa Maria,142,http://d.gr-assets.com/books/1358192116m/13608106.jpg,http://www.goodreads.com/book/show/13608106-on-web-typography,4.25,0
 17236175,Just Enough Research,Erika Hall,154,http://d.gr-assets.com/books/1379351795m/17236175.jpg,http://www.goodreads.com/book/show/17236175-just-enough-research,4.00,1
 26063183,За трудностите в живота,Петър Дънов,223,http://d.gr-assets.com/books/1439052038m/26063183.jpg,http://www.goodreads.com/book/show/26063183,0.0,1
-17910048,The Goblin Emperor,Katherine Addison,446,http://d.gr-assets.com/books/1373039517m/17910048.jpg,http://www.goodreads.com/book/show/17910048-the-goblin-emperor,4.07,0
+17910048,The Goblin Emperor,Katherine Addison,446,http://d.gr-assets.com/books/1373039517m/17910048.jpg,http://www.goodreads.com/book/show/17910048-the-goblin-emperor,4.08,0
 17336787,Planescape: Torment,Chris Avellone,1218,http://d.gr-assets.com/books/1360145856m/17336787.jpg,http://www.goodreads.com/book/show/17336787-planescape,3.97,0
 23398715,"How Music Got Free: The End of an Industry, the Turn of the Century, and the Patient Zero of Piracy",Stephen Witt,304,http://d.gr-assets.com/books/1414348373m/23398715.jpg,http://www.goodreads.com/book/show/23398715-how-music-got-free,4.18,0
 17209001,Деветата порта,Arturo Pérez-Reverte,431,http://d.gr-assets.com/books/1357339765m/17209001.jpg,http://www.goodreads.com/book/show/17209001,3.80,0
@@ -161,4 +161,5 @@ id,title,author,num_pages,image_url,url,average_rating,owned
 13661,"Tehanu (Earthsea Cycle, #4)",Ursula K. Le Guin,281,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/13661.Tehanu,3.84,0
 13659,"Tales from Earthsea (Earthsea Cycle, #5)",Ursula K. Le Guin,280,http://d.gr-assets.com/books/1309202073m/13659.jpg,http://www.goodreads.com/book/show/13659.Tales_from_Earthsea,3.97,0
 13658,"The Other Wind (Earthsea Cycle, #6)",Ursula K. Le Guin,211,http://d.gr-assets.com/books/1309285821m/13658.jpg,http://www.goodreads.com/book/show/13658.The_Other_Wind,4.01,0
-17382980,Асамтой,Etgar Keret,156,http://d.gr-assets.com/books/1361190458m/17382980.jpg,http://www.goodreads.com/book/show/17382980,4.01,0
+17382980,Асамтой,Etgar Keret,156,http://d.gr-assets.com/books/1361190458m/17382980.jpg,http://www.goodreads.com/book/show/17382980,4.01,1
+23705512,You're Never Weird on the Internet,Felicia Day,261,http://d.gr-assets.com/books/1430148931m/23705512.jpg,http://www.goodreads.com/book/show/23705512-you-re-never-weird-on-the-internet,4.46,0
