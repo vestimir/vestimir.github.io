@@ -1,13 +1,13 @@
 id,title,author,num_pages,image_url,url,average_rating,owned
 6389257,The Death of Bunny Munro,Nick Cave,288,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/6389257-the-death-of-bunny-munro,3.42,1
-25565136,Куфарът на брат ми / My Brothers' Suitcase,Невена Дишлиева-Кръстева,240,http://d.gr-assets.com/books/1432054057m/25565136.jpg,http://www.goodreads.com/book/show/25565136-my-brothers-suitcase,4.24,1
+25565136,Куфарът на брат ми / My Brothers' Suitcase,Невена Дишлиева-Кръстева,240,http://d.gr-assets.com/books/1432054057m/25565136.jpg,http://www.goodreads.com/book/show/25565136-my-brothers-suitcase,4.23,1
 18917970,Essential Manners for Men 2nd Ed,Peter  Post,,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/18917970-essential-manners-for-men-2nd-ed,3.70,0
 13100158,"The Solopreneur Life: 42 Solo-Business Owners Speak the Truth on Dreaming Big, Failing Forward, and Calling Your Own Shots",Larry Keltto,134,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/13100158-the-solopreneur-life,3.25,0
 216363,The Man in the High Castle,Philip K. Dick,259,http://d.gr-assets.com/books/1448756803m/216363.jpg,http://www.goodreads.com/book/show/216363.The_Man_in_the_High_Castle,3.80,0
 534289,The I Ching or Book of Changes,Fu Xi,740,http://d.gr-assets.com/books/1406503668m/534289.jpg,http://www.goodreads.com/book/show/534289.The_I_Ching_or_Book_of_Changes,4.17,0
 439732,Life Is Like a Chicken COOP Ladder: A Study of German National Character Through Folklore,Gerald Dumas,192,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/439732.Life_Is_Like_a_Chicken_COOP_Ladder,4.17,0
 22811444,Making It Right: Product Management For A Startup World,Rian Van Der Merwe,,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/22811444-making-it-right,4.08,0
-20949594,McGlue,Ottessa Moshfegh,144,http://d.gr-assets.com/books/1398195273m/20949594.jpg,http://www.goodreads.com/book/show/20949594-mcglue,3.83,0
+20949594,McGlue,Ottessa Moshfegh,144,http://d.gr-assets.com/books/1398195273m/20949594.jpg,http://www.goodreads.com/book/show/20949594-mcglue,3.84,0
 23012474,Love and Other Ways of Dying: Essays,Michael Paterniti,464,http://d.gr-assets.com/books/1421711648m/23012474.jpg,http://www.goodreads.com/book/show/23012474-love-and-other-ways-of-dying,3.96,0
 25000037,Docker: Up & Running,Karl Matthias,224,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/25000037-docker,4.05,1
 10861,Pipe Dreams: A Surfer's Journey,Kelly Slater,352,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/10861.Pipe_Dreams,3.70,0
@@ -28,7 +28,7 @@ id,title,author,num_pages,image_url,url,average_rating,owned
 25525309,Rails meets React.js,Marcin Grzywaczewski,197,http://d.gr-assets.com/books/1431420862m/25525309.jpg,http://www.goodreads.com/book/show/25525309-rails-meets-react-js,5.00,1
 416318,The Ego and Its Own,Max Stirner,432,http://d.gr-assets.com/books/1294696844m/416318.jpg,http://www.goodreads.com/book/show/416318.The_Ego_and_Its_Own,4.06,0
 23217084,"People Over Profit: Break the System, Live with Purpose, Be More Successful",Dale Partridge,256,http://d.gr-assets.com/books/1422811394m/23217084.jpg,http://www.goodreads.com/book/show/23217084-people-over-profit,4.09,0
-10660230,Super Mario: How Nintendo Conquered America,Jeff   Ryan,292,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/10660230-super-mario,3.73,0
+10660230,Super Mario: How Nintendo Conquered America,Jeff   Ryan,292,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/10660230-super-mario,3.72,0
 18216917,Swarmwise,Rick Falkvinge,281,http://d.gr-assets.com/books/1374299968m/18216917.jpg,http://www.goodreads.com/book/show/18216917-swarmwise,4.19,0
 25224275,The Design of Everyday Things,Donald A. Norman,,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/25224275-the-design-of-everyday-things,4.15,0
 22529127,Team of Teams: The Power of Small Groups in a Fragmented World,Stanley McChrystal,304,http://d.gr-assets.com/books/1435278580m/22529127.jpg,http://www.goodreads.com/book/show/22529127-team-of-teams,4.21,0
@@ -57,9 +57,9 @@ id,title,author,num_pages,image_url,url,average_rating,owned
 11104933,Willpower: Rediscovering the Greatest Human Strength,Roy F. Baumeister,291,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/11104933-willpower,3.94,0
 61329,Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream Customers,Geoffrey A. Moore,211,http://d.gr-assets.com/books/1421709292m/61329.jpg,http://www.goodreads.com/book/show/61329.Crossing_the_Chasm,3.99,0
 28636,The Curtain: An Essay in Seven Parts,Milan Kundera,168,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/28636.The_Curtain,3.95,0
-20660692,"Кривата на щастието: За спорта, Вселената и всичко останало",Иво Иванов,516,http://d.gr-assets.com/books/1391166345m/20660692.jpg,http://www.goodreads.com/book/show/20660692,4.71,1
+20660692,"Кривата на щастието: За спорта, Вселената и всичко останало",Иво Иванов,516,http://d.gr-assets.com/books/1391166345m/20660692.jpg,http://www.goodreads.com/book/show/20660692,4.72,1
 20980987,"The Art of Asking; or, How I Learned to Stop Worrying and Let People Help",Amanda Palmer,339,http://d.gr-assets.com/books/1408547261m/20980987.jpg,http://www.goodreads.com/book/show/20980987-the-art-of-asking-or-how-i-learned-to-stop-worrying-and-let-people-hel,3.95,1
-23604940,Losing the Signal: The Untold Story Behind the Extraordinary Rise and Spectacular Fall of BlackBerry,Jacquie McNish,288,http://d.gr-assets.com/books/1426128020m/23604940.jpg,http://www.goodreads.com/book/show/23604940-losing-the-signal,4.05,0
+23604940,Losing the Signal: The Untold Story Behind the Extraordinary Rise and Spectacular Fall of BlackBerry,Jacquie McNish,288,http://d.gr-assets.com/books/1426128020m/23604940.jpg,http://www.goodreads.com/book/show/23604940-losing-the-signal,4.06,0
 6177595,Поздрави от мен боговете,Димитър Воев,88,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/6177595,4.64,0
 11467066,The Toaster Project: Or a Heroic Attempt to Build a Simple Electric Appliance from Scratch,Thomas Thwaites,192,http://d.gr-assets.com/books/1327901764m/11467066.jpg,http://www.goodreads.com/book/show/11467066-the-toaster-project,3.78,0
 22318578,The Life-Changing Magic of Tidying Up,Marie Kondō,214,http://d.gr-assets.com/books/1418767178m/22318578.jpg,http://www.goodreads.com/book/show/22318578-the-life-changing-magic-of-tidying-up,3.80,1
@@ -112,20 +112,19 @@ id,title,author,num_pages,image_url,url,average_rating,owned
 17612817,Worst. Person. Ever.,Douglas Coupland,336,http://d.gr-assets.com/books/1373495738m/17612817.jpg,http://www.goodreads.com/book/show/17612817-worst-person-ever,3.02,0
 22307,Terry: Terry Fox and His Marathon of Hope,Douglas Coupland,176,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/22307.Terry,4.31,0
 7872823,Player One: What Is to Become of Us,Douglas Coupland,256,http://d.gr-assets.com/books/1328772299m/7872823.jpg,http://www.goodreads.com/book/show/7872823-player-one,3.50,1
-23658654,Confessions of a Heretic: The Sacred and the Profane: Behemoth and Beyond,Adam Nergal Darski,320,http://d.gr-assets.com/books/1420789663m/23658654.jpg,http://www.goodreads.com/book/show/23658654-confessions-of-a-heretic,4.04,0
+23658654,Confessions of a Heretic: The Sacred and the Profane: Behemoth and Beyond,Adam Nergal Darski,320,http://d.gr-assets.com/books/1420789663m/23658654.jpg,http://www.goodreads.com/book/show/23658654-confessions-of-a-heretic,4.05,0
 721338,Agile Retrospectives: Making Good Teams Great,Esther Derby,170,http://d.gr-assets.com/books/1358993568m/721338.jpg,http://www.goodreads.com/book/show/721338.Agile_Retrospectives,3.91,0
-22500611,Trigger Warning: Short Fictions and Disturbances,Neil Gaiman,368,http://d.gr-assets.com/books/1415036199m/22500611.jpg,http://www.goodreads.com/book/show/22500611-trigger-warning,3.95,0
+22500611,Trigger Warning: Short Fictions and Disturbances,Neil Gaiman,368,http://d.gr-assets.com/books/1415036199m/22500611.jpg,http://www.goodreads.com/book/show/22500611-trigger-warning,3.95,1
 67833,Extreme Programming Explained: Embrace Change (The XP Series),Kent Beck,224,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/67833.Extreme_Programming_Explained,4.03,0
 1705697,Wastelands: Stories of the Apocalypse,John Joseph Adams,333,http://d.gr-assets.com/books/1391343189m/1705697.jpg,http://www.goodreads.com/book/show/1705697.Wastelands,3.78,0
 22444244,Стаята,Богдан Русев,320,http://d.gr-assets.com/books/1402253299m/22444244.jpg,http://www.goodreads.com/book/show/22444244,2.60,1
-23593534,Соц гурме,Albena Shkodrova,360,http://d.gr-assets.com/books/1416504861m/23593534.jpg,http://www.goodreads.com/book/show/23593534,4.19,1
+23593534,Соц гурме,Albena Shkodrova,360,http://d.gr-assets.com/books/1416504861m/23593534.jpg,http://www.goodreads.com/book/show/23593534,4.18,1
 7743349,The Singles Collection 1999-2009,Богдан Русев,184,http://d.gr-assets.com/books/1266361165m/7743349.jpg,http://www.goodreads.com/book/show/7743349-the-singles-collection-1999-2009,3.64,0
 8853059,Електрочакра,Богдан Русев,116,http://d.gr-assets.com/books/1281619797m/8853059.jpg,http://www.goodreads.com/book/show/8853059,4.00,0
 17789143,Вълшебната тетива,Джордж М. Джордж,160,http://d.gr-assets.com/books/1365595576m/17789143.jpg,http://www.goodreads.com/book/show/17789143,4.00,0
-22375880,Ледената цитадела,Колин Уолъмбъри,160,http://d.gr-assets.com/books/1401454865m/22375880.jpg,http://www.goodreads.com/book/show/22375880,3.85,1
+22375880,Ледената цитадела,Колин Уолъмбъри,160,http://d.gr-assets.com/books/1401454865m/22375880.jpg,http://www.goodreads.com/book/show/22375880,3.86,1
 16369563,Патрул за ада: 2 в 1,Робърт Блонд,160,http://d.gr-assets.com/books/1355224336m/16369563.jpg,http://www.goodreads.com/book/show/16369563,3.84,0
 17797582,Последният убиец на дракони,Ейдриън Уейн,96,http://d.gr-assets.com/books/1365944768m/17797582.jpg,http://www.goodreads.com/book/show/17797582,3.06,0
-22907858,#НаЖивоОтСофия,Александър Шпатов,176,http://d.gr-assets.com/books/1407847459m/22907858.jpg,http://www.goodreads.com/book/show/22907858,3.80,0
 112146,"Pre: The Story of America's Greatest Running Legend, Steve Prefontaine",Tom Jordan,176,http://d.gr-assets.com/books/1312063898m/112146.jpg,http://www.goodreads.com/book/show/112146.Pre,3.97,0
 46190,Love Is a Mix Tape,Rob Sheffield,224,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/46190.Love_Is_a_Mix_Tape,3.83,0
 23605669,Когато искам да мълча,Zornitsa Hristova,32,http://d.gr-assets.com/books/1416811518m/23605669.jpg,http://www.goodreads.com/book/show/23605669,4.70,0
@@ -135,10 +134,9 @@ id,title,author,num_pages,image_url,url,average_rating,owned
 4268826,"Growing Object-Oriented Software, Guided by Tests",Steve  Freeman,345,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/4268826-growing-object-oriented-software-guided-by-tests,4.18,0
 9765652,Rails Antipatterns: Best Practice Ruby on Rails Refactoring,Chad Pytel,341,http://d.gr-assets.com/books/1400891776m/9765652.jpg,http://www.goodreads.com/book/show/9765652-rails-antipatterns,3.98,0
 11799211,Exceptional Ruby: Master the Art of Handling Failure in Ruby,Avdi Grimm,102,http://d.gr-assets.com/books/1309989829m/11799211.jpg,http://www.goodreads.com/book/show/11799211-exceptional-ruby,4.08,0
-6596507,Ruby Best Practices,Gregory Brown,336,http://d.gr-assets.com/books/1328834871m/6596507.jpg,http://www.goodreads.com/book/show/6596507-ruby-best-practices,3.79,0
 206731,The Tibetan Book of Living and Dying,Sogyal Rinpoche,464,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/206731.The_Tibetan_Book_of_Living_and_Dying,4.22,1
 93892,Rapid Development: Taming Wild Software Schedules,Steve McConnell,674,http://d.gr-assets.com/books/1328757702m/93892.jpg,http://www.goodreads.com/book/show/93892.Rapid_Development,3.94,0
-13507787,Practical Object Oriented Design in Ruby,Sandi Metz,247,http://d.gr-assets.com/books/1358916543m/13507787.jpg,http://www.goodreads.com/book/show/13507787-practical-object-oriented-design-in-ruby,4.58,0
+13507787,Practical Object Oriented Design in Ruby,Sandi Metz,247,http://d.gr-assets.com/books/1358916543m/13507787.jpg,http://www.goodreads.com/book/show/13507787-practical-object-oriented-design-in-ruby,4.58,1
 70156,Patterns of Enterprise Application Architecture,Martin Fowler,533,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/70156.Patterns_of_Enterprise_Application_Architecture,4.13,0
 21077847,The Man of the Crowd and other stories,Edgar Allan Poe,,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/21077847-the-man-of-the-crowd-and-other-stories,4.17,0
 20821159,The Peripheral,William Gibson,485,http://d.gr-assets.com/books/1402651292m/20821159.jpg,http://www.goodreads.com/book/show/20821159-the-peripheral,3.95,1
