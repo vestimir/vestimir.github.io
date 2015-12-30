@@ -3,21 +3,40 @@ html.full-height {
 }
 
 .homepage {
-    background-color: #0264c7;
+    background: #333 url('/images/background.jpg') no-repeat center center;
+    background-size: cover;
     color: #fff;
     text-shadow: 1px 1px 0 #000;
 
-    h1 {
+    h1, h2 {
         color: #fff;
     }
 
+    p {
+        margin-bottom: 2em;
+    }
+
     a {
-        color: rgb(244, 228, 117);
+        color: #3fb618;
+    }
+
+    hgroup {
+        margin-bottom: 2em;
+
+        h1, h2 {
+            margin: 0;
+        }
+
+        h2 {
+            font-weight: normal;
+            font-size: 1em;
+        }
     }
 
     ul {
         list-style: inside none;
         padding: 0;
+
         li {
             &:before {
                 content: '→ ';
@@ -26,13 +45,15 @@ html.full-height {
     }
 
     .cv {
-        margin: 10%;
+        margin: 10% 20%;
+    }
+}
 
-        img {
-            width: 100px;
-            height: 100px;
-            border-radius: 50%;
-            box-shadow: 0 0 1px #000;
-        }
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 667px)
+and (orientation : portrait) {
+    .homepage {
+        .cv { margin: 10%; }
     }
 }
