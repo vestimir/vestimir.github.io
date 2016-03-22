@@ -1,0 +1,14 @@
+---
+layout: page
+title: Books About Business
+---
+
+<ul class="books">
+  {% for book in site.data.business_books reversed %}
+    <li>
+      <a href="http://www.bookdepository.com/search?searchTerm={{ book.title }}&search=Find+book" target="_blank"><img src="{{ book.image_url }}" alt="{{ book.title }}"></a>
+      <a href="http://www.bookdepository.com/search?searchTerm={{ book.title }}&search=Find+book" target="_blank"><h6>{{ book.title | truncate: 70 }}</h6></a>
+      <small>{{ book.author }}</small>
+    </li>
+  {% endfor %}
+</ul>
