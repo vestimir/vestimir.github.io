@@ -2,7 +2,7 @@ id,title,author,num_pages,image_url,url,average_rating,owned
 28592595,Iraq + 100: Stories from Another Iraq,Hassan Blasim,224,http://images.gr-assets.com/books/1477026794m/28592595.jpg,http://www.goodreads.com/book/show/28592595-iraq-100,5.00,0
 17934530,"Annihilation (Southern Reach, #1)",Jeff VanderMeer,195,http://images.gr-assets.com/books/1403941587m/17934530.jpg,http://www.goodreads.com/book/show/17934530-annihilation,3.62,0
 109800,"Wild Fermentation: The Flavor, Nutrition, and Craft of Live-Culture Foods",Sandor Ellix Katz,187,http://images.gr-assets.com/books/1415589337m/109800.jpg,http://www.goodreads.com/book/show/109800.Wild_Fermentation,4.36,0
-17255186,"The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win",Gene Kim,345,http://images.gr-assets.com/books/1361113128m/17255186.jpg,http://www.goodreads.com/book/show/17255186-the-phoenix-project,4.23,0
+17255186,"The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win",Gene Kim,345,http://images.gr-assets.com/books/1361113128m/17255186.jpg,http://www.goodreads.com/book/show/17255186-the-phoenix-project,4.23,1
 24000494,Boss Life: Surviving My Own Small Business,Paul Downs,352,http://images.gr-assets.com/books/1430920501m/24000494.jpg,http://www.goodreads.com/book/show/24000494-boss-life,4.17,0
 1813648,Math Through the Ages: A Gentle History for Teachers and Others,William P. Berlinghoff,273,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/1813648.Math_Through_the_Ages,3.59,0
 9047584,Jamie's 30-Minute Meals,Jamie Oliver,287,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/9047584-jamie-s-30-minute-meals,4.04,1
@@ -95,7 +95,7 @@ id,title,author,num_pages,image_url,url,average_rating,owned
 56132,The Picture of Dorian Gray and Three Stories,Oscar Wilde,336,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/56132.The_Picture_of_Dorian_Gray_and_Three_Stories,4.11,1
 6965068,Warrior Wolf Women of the Wasteland,Carlton Mellick III,300,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/6965068-warrior-wolf-women-of-the-wasteland,4.11,0
 7784,The Lorax,Dr. Seuss,72,http://images.gr-assets.com/books/1327879938m/7784.jpg,http://www.goodreads.com/book/show/7784.The_Lorax,4.35,0
-7745,Fear and Loathing in Las Vegas,Hunter S. Thompson,204,http://images.gr-assets.com/books/1394204569m/7745.jpg,http://www.goodreads.com/book/show/7745.Fear_and_Loathing_in_Las_Vegas,4.08,0
+7745,Fear and Loathing in Las Vegas,Hunter S. Thompson,204,http://images.gr-assets.com/books/1394204569m/7745.jpg,http://www.goodreads.com/book/show/7745.Fear_and_Loathing_in_Las_Vegas,4.08,1
 2657,To Kill a Mockingbird,Harper Lee,324,http://images.gr-assets.com/books/1361975680m/2657.jpg,http://www.goodreads.com/book/show/2657.To_Kill_a_Mockingbird,4.25,0
 17716,Waiting for Godot,Samuel Beckett,109,http://images.gr-assets.com/books/1327910301m/17716.jpg,http://www.goodreads.com/book/show/17716.Waiting_for_Godot,3.81,0
 11910905,The Charisma Myth: How Anyone Can Master the Art and Science of Personal Magnetism,Olivia Fox Cabane,264,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/11910905-the-charisma-myth,3.93,0
@@ -122,7 +122,7 @@ id,title,author,num_pages,image_url,url,average_rating,owned
 26063183,За трудностите в живота,Petar Dunov,223,http://images.gr-assets.com/books/1439052038m/26063183.jpg,http://www.goodreads.com/book/show/26063183,0.0,1
 17236175,Just Enough Research,Erika Hall,154,http://images.gr-assets.com/books/1379351795m/17236175.jpg,http://www.goodreads.com/book/show/17236175-just-enough-research,4.09,1
 13608106,On Web Typography,Jason Santa Maria,142,http://images.gr-assets.com/books/1358192116m/13608106.jpg,http://www.goodreads.com/book/show/13608106-on-web-typography,4.23,0
-18302455,The Circle,Dave Eggers,508,http://images.gr-assets.com/books/1376419833m/18302455.jpg,http://www.goodreads.com/book/show/18302455-the-circle,3.45,0
+18302455,The Circle,Dave Eggers,508,http://images.gr-assets.com/books/1376419833m/18302455.jpg,http://www.goodreads.com/book/show/18302455-the-circle,3.45,1
 7061309,Fragile Things: Short Fictions and Wonders,Neil Gaiman,396,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/7061309-fragile-things,4.02,1
 168663,Galápagos,Kurt Vonnegut,237,http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,http://www.goodreads.com/book/show/168663.Gal_pagos,3.87,1
 3228917,Outliers: The Story of Success,Malcolm Gladwell,309,http://images.gr-assets.com/books/1344266315m/3228917.jpg,http://www.goodreads.com/book/show/3228917-outliers,4.10,0
